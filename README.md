@@ -5,7 +5,7 @@
 **diegocostaxp/diegocostaxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-- Minha meta é seguir carreira como desenvolvedor backend
+- Minha meta é seguir carreira como um desenvolvedor backend
 - Sou apaixonado por projetos open-sources
 - Demonstro interesse por projetos de impactos sociais
 - Estou estudando uma graduação tecnológica (Análise e Desenvolvimento de Sistemas)
