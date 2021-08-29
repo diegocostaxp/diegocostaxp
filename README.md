@@ -4,8 +4,6 @@
 **diegocostaxp/diegocostaxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-
-- 🔭 
 - ⚡ Desenvolvedor backend
 - 🌱 Apaixonado por projetos open-sources
 - 💬 Demonstra interesse por projetos de impactos sociais
