@@ -1,13 +1,14 @@
 ### Olá! Meu nome é Diego, seja bem-vindo ao meu perfil do Github! 👋
 
+
 <!--
 **diegocostaxp/diegocostaxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-- ⚡ Desenvolvedor backend
-- 🌱 Apaixonado por projetos open-sources
-- 💬 Demonstra interesse por projetos de impactos sociais
-- 🤔 Estudando uma graduação tecnológica (Análise e Desenvolvimento de Sistemas)
+- ⚡ Minha meta é seguir carreira como desenvolvedor backend
+- 🌱 Sou apaixonado por projetos open-sources
+- 💬 Demonstro interesse por projetos de impactos sociais
+- 🤔 Estou estudando uma graduação tecnológica (Análise e Desenvolvimento de Sistemas)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
