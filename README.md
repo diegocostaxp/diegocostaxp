@@ -25,7 +25,7 @@
 </div>
 <br>
 <div>
-<img align="right" width="400px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
+<img align="center" width="400px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 </div>
 <br>
 <br>
