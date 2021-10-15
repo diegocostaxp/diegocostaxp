@@ -14,9 +14,10 @@
 Perfil otimista, empático,versátil e ótima capacidade de criação. O que mais o motiva é criar soluções novas, fazer parte de algo maior e atuar com autonomia, para impactar as pessoas em prol de um mundo mais evoluído e igualitário.</h4>
 
 
-- Minha meta é seguir carreira como um desenvolvedor backend Java e/ou PHP;
+- Minha meta é seguir carreira como um desenvolvedor full stack;
 - Sou apaixonado por projetos open-sources;
 - Demonstro interesse por projetos de impacto social;
+- Tecnologias que já me despertam bastante interesse: React, Vue, PHP e Java.
 
 
 <div style="display: inline_block"><br>
