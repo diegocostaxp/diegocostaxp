@@ -17,8 +17,6 @@ Perfil otimista, empático,versátil e ótima capacidade de criação. O que mai
 - Minha meta é seguir carreira como um desenvolvedor backend;
 - Sou apaixonado por projetos open-sources;
 - Demonstro interesse por projetos de impacto social;
-- Estou estudando uma graduação tecnológica (Análise e Desenvolvimento de Sistemas). 
-
 
 
 <div style="display: inline_block"><br>
