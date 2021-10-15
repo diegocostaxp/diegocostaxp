@@ -16,7 +16,7 @@ Perfil otimista, empático,versátil e ótima capacidade de criação. O que mai
 
 - Minha meta é seguir carreira como um desenvolvedor full stack;
 - Sou apaixonado por projetos open-sources;
-- Demonstro interesse por projetos de impacto social;
+- Demonstro interesse por projetos de impacto social.
 
 
 <div style="display: inline_block"><br>
