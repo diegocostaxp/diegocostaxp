@@ -8,9 +8,7 @@
 
 -->
 
-<h4 align="center">
- 
-![Hello](https://i.imgur.com/p4vnGAN.gif)
+
 
 <h4 >Atualmente concentrado em desenvolver competências na área da tecnologia por acreditar no poder e impacto da mesma em gerar mudanças exponenciais na vida das pessoas.</br></br>
 Perfil otimista, empático,versátil e ótima capacidade de criação. O que mais o motiva é criar soluções novas, fazer parte de algo maior e atuar com autonomia, para impactar as pessoas em prol de um mundo mais evoluído e igualitário.</h4>
