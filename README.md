@@ -12,17 +12,9 @@
  
 ![Hello](https://i.imgur.com/p4vnGAN.gif)
 
-<h3 id="introdução">Atualmente concentrado em desenvolver competências na área da tecnologia por acreditar no poder e impacto da mesma em gerar mudanças exponenciais na vida das pessoas.
+<h4 border-style: "ridge"; text-align:"justify-all";>Atualmente concentrado em desenvolver competências na área da tecnologia por acreditar no poder e impacto da mesma em gerar mudanças exponenciais na vida das pessoas.
  </br>
-Perfil otimista, empático,versátil e ótima capacidade de criação. O que mais o motiva é criar soluções novas, fazer parte de algo maior e atuar com autonomia, para impactar as pessoas em prol de um mundo mais evoluído e igualitário.</h3>
-
-<div>
- .introdução{
- text-align:"justify-all";
- border-style: "ridge";
- }
-</div>
-
+Perfil otimista, empático,versátil e ótima capacidade de criação. O que mais o motiva é criar soluções novas, fazer parte de algo maior e atuar com autonomia, para impactar as pessoas em prol de um mundo mais evoluído e igualitário.</h4>
 
 
 - Minha meta é seguir carreira como um desenvolvedor backend;
