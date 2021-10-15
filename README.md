@@ -7,10 +7,14 @@
 **diegocostaxp/diegocostaxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+Atualmente concentrado em desenvolver competências na área da tecnologia por acreditar no poder e impacto da mesma em gerar mudanças exponenciais na vida das pessoas. Perfil otimista, empático,versátil e ótima capacidade de criação. O que mais o motiva é criar soluções novas, fazer parte de algo maior e atuar com autonomia, para impactar as pessoas em prol de um mundo mais evoluído e igualitário.
+
 - Minha meta é seguir carreira como um desenvolvedor backend;
 - Sou apaixonado por projetos open-sources;
 - Demonstro interesse por projetos de impacto social;
 - Estou estudando uma graduação tecnológica (Análise e Desenvolvimento de Sistemas). 
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
