@@ -1,10 +1,10 @@
-### Olá! Meu nome é Diego. 
+<h1>Olá! Meu nome é Diego!</h1>
 
-#### Seja bem-vindo ao meu perfil do Github!
+<h2>Seja bem-vindo ao meu perfil do Github! ✨</h2>
 
 
 <!--
-**diegocostaxp/diegocostaxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**diegocostaxp/diegocostaxp** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
 <h2>INTRODUÇÃO</h2>
@@ -13,7 +13,7 @@
 - Perfil otimista, empático,versátil e ótima capacidade de criação. O que mais o motiva é criar soluções novas, fazer parte de algo maior e atuar com autonomia, para impactar as pessoas em prol de um mundo mais evoluído e igualitário.
 </p>
 
-<h2>Quem sou eu?</h2>
+<h2>QUEM SOU EU?</h2>
 <p>
 - Eu sou um cidadão soteropolitano, e, acredito na possibilidade de que o meu ofício venha impactar positivamente nas vidas das pessoas através do uso da tecnologia; </br>
 - Tenho um sincero apelo por projetos open-sources, pois acredito que o trabalho em comunidade poderá gerar a sociliazação de informações, afim de permitir o bareateamento de produtos e serviços;</br>
