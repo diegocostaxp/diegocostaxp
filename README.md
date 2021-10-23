@@ -16,7 +16,7 @@
 <h2>QUEM SOU EU?</h2>
 <p>
 - Eu sou um cidadão soteropolitano, e, acredito na possibilidade de que o meu ofício venha impactar positivamente nas vidas das pessoas através do uso da tecnologia; </br>
-- Tenho um sincero apelo por projetos open-sources, pois acredito que o trabalho em comunidade poderá gerar a sociliazação de informações, afim de permitir o bareateamento de produtos e serviços;</br>
+- Tenho um sincero apelo por projetos open-sources, pois acredito que o trabalho em comunidade poderá gerar a socialização de informações, afim de permitir o bareateamento de produtos e serviços;</br>
 - Profissionalmente, a minha ambição é seguir carreira como um desenvolvedor Full Stack, ou seja, tornar-me um profissional que possa atuar e colaborar em qualquer etapa do desenvolvimento de sistemas;</br>
 - Em termos de modalidades de trabalho, venho avaliando positivamente parcerias ou trabalhos que sejam remotos, pois quero obter independência geográfica. Recusar uma proposta promissora por conta de questões geográficas? NUNCA!
 </p>
