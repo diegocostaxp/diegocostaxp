@@ -13,11 +13,12 @@ Perfil otimista, empático,versátil e ótima capacidade de criação. O que mai
 
 
 <h2>Quem sou eu?</h2>
-- Eu sou um cidadão soteropolitano, e, acredito na possibilidade de que o meu ofício venha impactar positivamente nas vidas das pessoas através do uso da tecnologia;
-- Tenho um sincero apelo por projetos open-sources, pois acredito que o trabalho em comunidade poderá gerar a sociliazação de informações, afim de permitir o bareateamento de produtos e serviços;
-- Profissionalmente, a minha ambição é seguir carreira como um desenvolvedor Full Stack, ou seja, tornar-me um profissional que possa atuar e colaborar em qualquer etapa do desenvolvimento de sistemas. Seja no Front-End ou no Back-end, eu quero quebrar minhas proprias barreiras!;
+<p>
+- Eu sou um cidadão soteropolitano, e, acredito na possibilidade de que o meu ofício venha impactar positivamente nas vidas das pessoas através do uso da tecnologia; </br>
+- Tenho um sincero apelo por projetos open-sources, pois acredito que o trabalho em comunidade poderá gerar a sociliazação de informações, afim de permitir o bareateamento de produtos e serviços; </br>
+- Profissionalmente, a minha ambição é seguir carreira como um desenvolvedor Full Stack, ou seja, tornar-me um profissional que possa atuar e colaborar em qualquer etapa do desenvolvimento de sistemas. Seja no Front-End ou no Back-end, eu quero quebrar minhas proprias barreiras!; </br>
 - Em termos de modalidades de trabalho, venho avaliando positivamente parcerias ou trabalhos que sejam remotos, pois quero obter independência geográfica. Recusar uma proposta promissora por conta de questôes geográficas? NUNCA!
-
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
