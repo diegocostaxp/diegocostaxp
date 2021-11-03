@@ -10,7 +10,7 @@
 <h2>QUEM SOU EU?</h2>
 <p>
 - Atualmente estou concentrado em desenvolver competências na área da tecnologia por acreditar no poder e impacto da mesma em gerar mudanças exponenciais na vida das pessoas; </br>
-- Tenho um sincero apelo por projetos open-sources, pois acredito que o trabalho em comunidade poderá gerar a socialização de informações, de modo a permitir o barateamento de produtos e serviços;</br>
+- Tenho um sincero apelo por projetos open-sources, pois acredito que o trabalho em comunidade poderá gerar a socialização de informações e conteúdo, de modo a permitir o barateamento de produtos e serviços;</br>
 - Profissionalmente, a minha ambição é seguir carreira como um desenvolvedor full stack, ou seja, tornar-me um profissional que possa atuar e colaborar em qualquer etapa do desenvolvimento de sistemas;</br>
 - Quando o assunto é modalidades de trabalho, venho avaliando positivamente parcerias ou trabalhos que sejam remotos, pois quero conquistar a minha independência geográfica permitindo-me um campo de atuação mais abrangente e flexível. 
 </p>
