@@ -1,20 +1,15 @@
-<h1>Olá! Meu nome é Diego!</h1>
+### Hey, I'm Diego! 👋
 
-<h2>Seja bem-vindo ao meu perfil do Github! ✨</h2>
+- :technologist: Currently I'm focused on developing skills in the technology area because I believe in its power and impact to generate exponential changes in people's lives; 
+- :notebook: I have a sincere appeal for open-source projects, as I believe that community work can generate the socialization of information and content, in order to make products and services cheaper;</br>
+- :seedling: Professionally, my ambition is to pursue a career as a full-stack developer, that is, to become a professional who can work and collaborate at any stage of systems development;</br>
+- :notebook: When it comes to work modalities, I have been positively evaluating partnerships or jobs that are remote, as I want to conquer my geographical independence, allowing me a more comprehensive and flexible field of action.
 
+### :handshake: Contact Me
 
-<!--
-**diegocostaxp/diegocostaxp** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
-<h2>QUEM SOU EU?</h2>
-<p>
-- Atualmente estou concentrado em desenvolver competências na área da tecnologia por acreditar no poder e impacto da mesma em gerar mudanças exponenciais na vida das pessoas; </br>
-- Tenho um sincero apelo por projetos open-sources, pois acredito que o trabalho em comunidade poderá gerar a socialização de informações e conteúdo, de modo a permitir o barateamento de produtos e serviços;</br>
-- Profissionalmente, a minha ambição é seguir carreira como um desenvolvedor full stack, ou seja, tornar-me um profissional que possa atuar e colaborar em qualquer etapa do desenvolvimento de sistemas;</br>
-- Quando o assunto é modalidades de trabalho, venho avaliando positivamente parcerias ou trabalhos que sejam remotos, pois quero conquistar a minha independência geográfica permitindo-me um campo de atuação mais abrangente e flexível. 
-</p>
-
+<a href="https://br.linkedin.com/in/diegodealmeidacosta"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href = "mailto:diegocostaxp@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
@@ -25,10 +20,4 @@
   <img align="center" alt="bootstraps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
-<br>
-<br>
-<div>
-  <a href = "mailto:diegocostaxp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diegodealmeidacosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
