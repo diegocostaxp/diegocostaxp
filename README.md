@@ -1,9 +1,9 @@
 ### Hey, I'm Diego! 👋
 
-- :technologist: Currently I'm focused on developing skills in the technology area because I believe in its power and impact to generate exponential changes in people's lives; 
-- :notebook: I have a sincere appeal for open-source projects, as I believe that community work can generate the socialization of information and content, in order to make products and services cheaper;</br>
-- :seedling: Professionally, my ambition is to pursue a career as a full-stack developer, that is, to become a professional who can work and collaborate at any stage of systems development;</br>
-- :notebook: When it comes to work modalities, I have been positively evaluating partnerships or jobs that are remote, as I want to conquer my geographical independence, allowing me a more comprehensive and flexible field of action.
+- Currently I'm focused on developing skills in the technology area because I believe in its power and impact to generate exponential changes in people's lives; 
+- I have a sincere appeal for open-source projects, as I believe that community work can generate the socialization of information and content, in order to make products and services cheaper;</br>
+- Professionally, my ambition is to pursue a career as a full-stack developer, that is, to become a professional who can work and collaborate at any stage of systems development;</br>
+- When it comes to work modalities, I have been positively evaluating partnerships or jobs that are remote, as I want to conquer my geographical independence, allowing me a more comprehensive and flexible field of action.
 
 ### :handshake: Contact Me
 
