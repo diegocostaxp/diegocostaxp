@@ -1,5 +1,3 @@
-<img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 <h2>SOBRE MIM</h2>
 <p align="left"> 
 - Atualmente estou focado no desenvolvimento de habilidades na área de tecnologia porque acredito em seu poder e impacto para gerar mudanças exponenciais na vida das pessoas;<br><br>
