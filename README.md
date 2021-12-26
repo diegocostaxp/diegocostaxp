@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<img align="left" alt="GIF" height="100%" width="35%" src="https://static.wikia.nocookie.net/minecraftcreepypasta/images/b/b6/5-asciiguy-red.gif/revision/latest?cb=20180523023848" />
+<img align="right" alt="GIF" height="100%" width="35%" src="https://static.wikia.nocookie.net/minecraftcreepypasta/images/b/b6/5-asciiguy-red.gif/revision/latest?cb=20180523023848" />
 
 <h2>SOBRE MIM</h2>
 <p align="left"> 
