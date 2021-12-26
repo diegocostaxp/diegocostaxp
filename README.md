@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Atualmente estou focado no desenvolvimento de habilidades na área de tecnologia porque acredito em seu poder e impacto para gerar mudanças exponenciais na vida das pessoas;<br>
+- Atualmente estou focado no desenvolvimento de habilidades na área de tecnologia porque acredito em seu poder e impacto para gerar mudanças exponenciais na vida das pessoas;<br>
 Tenho um apelo sincero por projetos de código aberto, pois acredito que o trabalho comunitário pode gerar a socialização de informações e conteúdo, a fim de tornar os produtos e serviços mais baratos;<br>
-Profissionalmente, minha ambição é seguir uma carreira como desenvolvedor full-stack, ou seja, me tornar um profissional que possa trabalhar e colaborar em qualquer estágio de desenvolvimento de sistemas;<br>
-Quando se trata de modalidades de trabalho, venho avaliando positivamente parcerias ou empregos que são remotos, pois quero conquistar minha independência geográfica, permitindo-me um campo de ação mais abrangente e flexível.<br></p>
+- Profissionalmente, minha ambição é seguir uma carreira como desenvolvedor full-stack, ou seja, me tornar um profissional que possa trabalhar e colaborar em qualquer estágio de desenvolvimento de sistemas;<br>
+- Quando se trata de modalidades de trabalho, venho avaliando positivamente parcerias ou empregos que são remotos, pois quero conquistar minha independência geográfica, permitindo-me um campo de ação mais abrangente e flexível.<br></p>
 
 <p align="left">
   🦄 Linguagens, Frameworks e Bibliotecas: <strong>C#, Java, Javascript, Node.JS, React.JS e Bootstrap.</strong>
