@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h2>Sobre mim:</h2>
+<img align="left" alt="GIF" height="100%" width="35%" src="https://static.wikia.nocookie.net/minecraftcreepypasta/images/b/b6/5-asciiguy-red.gif/revision/latest?cb=20180523023848" />
+
+<h2>SOBRE MIM</h2>
 <p align="left"> 
 - Atualmente estou focado no desenvolvimento de habilidades na área de tecnologia porque acredito em seu poder e impacto para gerar mudanças exponenciais na vida das pessoas;<br><br>
 - Tenho um apelo sincero por projetos de código aberto, pois acredito que o trabalho comunitário pode gerar a socialização de informações e conteúdo, a fim de tornar os produtos e serviços mais acessíveis ao publico geral;<br><br>
