@@ -1,6 +1,6 @@
 <h2>SOBRE MIM</h2>
 <span style="font-family: 'Lucida Console';">
-<p align ="justify">
+<p align ="left">
 Atualmente estou focado no desenvolvimento de habilidades na área de tecnologia porque acredito em seu poder e impacto para gerar mudanças exponenciais na vida das pessoas;<br><br>
 Tenho um apelo sincero por projetos de código aberto, pois acredito que o trabalho comunitário pode gerar a socialização de informações e conteúdo, a fim de tornar os produtos e serviços mais acessíveis ao publico geral;<br><br>
 Profissionalmente, minha ambição é seguir uma carreira como desenvolvedor full-stack, ou seja, me tornar um profissional que possa trabalhar e colaborar em qualquer estágio no desenvolvimento de sistemas;<br><br>
