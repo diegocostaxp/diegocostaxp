@@ -7,7 +7,7 @@
 - Quando se trata de modalidades de trabalho, venho avaliando positivamente parcerias ou empregos que são remotos, pois quero conquistar minha independência geográfica, permitindo-me um campo de ação mais abrangente e flexível.<br><br></p>
 
 <p align="left">
-  🦄 Linguagens, Frameworks e Bibliotecas: <strong>C#, Java, Javascript, Node.JS, React.JS e Bootstrap.</strong>
+  🦄 Linguagens, frameworks e bibliotecas: <strong>C#, Java, Javascript, Node.JS, React.JS e Bootstrap.</strong>
 </p>
 
 <p align="left">
