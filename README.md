@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <h2>SOBRE MIM</h2>
 <span style="font-family: 'Lucida Console';">
 <p align ="left">
