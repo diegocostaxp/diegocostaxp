@@ -1,23 +1,27 @@
-### Hey, I'm Diego! 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- Currently I'm focused on developing skills in the technology area because I believe in its power and impact to generate exponential changes in people's lives; 
-- I have a sincere appeal for open-source projects, as I believe that community work can generate the socialization of information and content, in order to make products and services cheaper;</br>
-- Professionally, my ambition is to pursue a career as a full-stack developer, that is, to become a professional who can work and collaborate at any stage of systems development;</br>
-- When it comes to work modalities, I have been positively evaluating partnerships or jobs that are remote, as I want to conquer my geographical independence, allowing me a more comprehensive and flexible field of action.
+<p align="left"> 
+Atualmente estou focado no desenvolvimento de habilidades na área de tecnologia porque acredito em seu poder e impacto para gerar mudanças exponenciais na vida das pessoas;<br>
+Tenho um apelo sincero por projetos de código aberto, pois acredito que o trabalho comunitário pode gerar a socialização de informações e conteúdo, a fim de tornar os produtos e serviços mais baratos;<br>
+Profissionalmente, minha ambição é seguir uma carreira como desenvolvedor full-stack, ou seja, me tornar um profissional que possa trabalhar e colaborar em qualquer estágio de desenvolvimento de sistemas;<br>
+Quando se trata de modalidades de trabalho, venho avaliando positivamente parcerias ou empregos que são remotos, pois quero conquistar minha independência geográfica, permitindo-me um campo de ação mais abrangente e flexível.<br></p>
 
-### :handshake: Contact Me
+<p align="left">
+  🦄 Linguagens, Frameworks e Bibliotecas: <strong>C#, Java, Javascript, Node.JS, React.JS e Bootstrap.</strong>
+</p>
 
-<a href="https://br.linkedin.com/in/diegodealmeidacosta"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
-<a href = "mailto:diegocostaxp@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="bootstraps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
+<p align="left">
+  💼 Ferramentas: <strong>Visual Studio, VSCode, Eclipse, Postman, Figma, Microsoft SQL Server, MySQL Workbench e HeidiSQL.</strong>
+</p>
+
+<p align="left">
+  💌 Entre em contato comigo para tratarmos sobre demais assuntos: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=diegocostaxp@gmail.com"></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegodealmeidacosta" /></a>
+</p>
