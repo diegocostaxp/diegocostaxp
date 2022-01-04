@@ -20,11 +20,11 @@ Quando se trata de modalidades de trabalho, venho avaliando positivamente parcer
 
 <p align="center">
   <a href="mailto:diegocostaxp@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" alt="Gmail">
 </a>
 
 <a href="https://www.linkedin.com/in/diegodealmeidacosta/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" alt="LinkedIn">
 </a>
 </p>
 
