@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 <h2>SOBRE MIM</h2>
 <span style="font-family: 'Lucida Console';">
 <p align ="left">
@@ -27,8 +28,3 @@ Quando se trata de modalidades de trabalho, venho avaliando positivamente parcer
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" alt="LinkedIn">
 </a>
 </p>
-
-<div align="center">
-  <a href="https://github.com/diegocostaxp"></a>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocostaxp&layout=compact&langs_count=6&theme=dark"/>
-</div>
