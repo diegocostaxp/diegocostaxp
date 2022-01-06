@@ -30,6 +30,6 @@ Quando se trata de modalidades de trabalho, venho avaliando positivamente parcer
 
 <div align="center">
   <a href="https://github.com/diegocostaxp"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegocostaxp&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocostaxp&layout=compact&langs_count=6&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegocostaxp&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocostaxp&layout=compact&langs_count=6&theme=dark"/>
 </div>
