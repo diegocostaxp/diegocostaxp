@@ -12,7 +12,7 @@ Quando se trata de modalidades de trabalho, venho avaliando positivamente parcer
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio, VSCode, Eclipse, Postman, Figma, Microsoft SQL Server, MySQL Workbench e HeidiSQL.</strong>
+  💼 Ferramentas: <strong>Visual Studio, VSCode, Eclipse, Postman, Figma, Microsoft SQL Server e MySQL Workbench.</strong>
 </p>
 
 <p align="left">
