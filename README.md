@@ -5,7 +5,7 @@
 <p align ="left">
 Atualmente estou focado no desenvolvimento de habilidades na área da tecnologia porque acredito em seu poder e impacto para gerar mudanças exponenciais na vida das pessoas;<br><br>
 Profissionalmente, minha ambição é seguir uma carreira como desenvolvedor full-stack, ou seja, me tornar um profissional que possa trabalhar e colaborar em qualquer estágio no desenvolvimento de sistemas;<br><br>
-Quando se trata de modalidades de trabalho, venho avaliando positivamente parcerias ou empregos que são remotos, pois quero conquistar minha independência geográfica, permitindo-me um campo de ação mais abrangente e flexível.<br><br></p>
+Quando se trata de modalidades de trabalho, venho avaliando positivamente parcerias ou empregos que são remotos, pois quero conquistar minha independência geográfica, permitindo-me um campo de atuação mais abrangente e flexível.<br><br></p>
 <p align="left">
   🦄 Linguagens, frameworks e bibliotecas: <strong>C#, PHP, Javascript, Node.JS, React.JS e Bootstrap.</strong>
 </p>
