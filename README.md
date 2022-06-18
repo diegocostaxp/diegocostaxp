@@ -1,6 +1,6 @@
 ### _________________Bem-vindos!____________________________________
 <div style="font-family: 'Open Sans', sans-serif; display: inline_block;">
-  <p>Formado como Full Stack pela <a href="https://www.recodepro.org.br/" target="_blank">Recode Pro</a> e <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank">Oracle</a>;</p>
+  <p>Formado como Full Stack pela <a href="https://www.recodepro.org.br/" target="_blank">Recode</a> e <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank">Oracle</a>;</p>
  <p>Atualmente estou buscando uma recolocação no mercado de trabalho como desenvolvedor PHP;</a></p>
 <p>Sou tecnologista em Análise e Desenvolvimento de Sistemas;</p>
 <p>Gosto de cultivar bons hábitos como ler, ensinar, aprender e servir outras pessoas;</p>
