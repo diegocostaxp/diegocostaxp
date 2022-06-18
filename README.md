@@ -8,22 +8,22 @@
 <p>Quer mais informações? Entre em contato abaixo através do meu e-mail ou Linkedin.</p>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/javascript--v1.png" />
-  <img align="center" alt="ReactJS" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/react-native--v1.png" />
-  <img align="center" alt="ReduxJS" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/redux.png" />
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/typescript.png" />
-  <img align="center" alt="PHP" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/php-server.png" />
-  <img align="center" alt="Laravel" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/laravel.png" />
-  <img align="center" alt="CSharp" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/c-sharp-logo.png" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/css3.png" />
-  <img align="center" alt="SASS" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/sass.png" />
-  <img align="center" alt="Docker" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/docker.png" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/mysql-logo.png" />
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/postgreesql.png" />
-  <img align="center" alt="SQL" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/sql.png" />
-  <img align="center" alt="Linux" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/linux.png" />
-  <img align="center" alt="Git" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/git.png" />
-  <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://img.icons8.com/ios/50/undefined/visual-studio.png" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://img.icons8.com/color/48/undefined/javascript--v1.png" />
+  <img align="center" alt="ReactJS" height="30" width="40" src="https://img.icons8.com/color/48/undefined/react-native.png" />
+  <img align="center" alt="ReduxJS" height="30" width="40" src="https://img.icons8.com/color/48/undefined/redux.png" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://img.icons8.com/color/48/undefined/typescript.png" />
+  <img align="center" alt="PHP" height="30" width="40" src="https://img.icons8.com/color/48/undefined/php.png" />
+  <img align="center" alt="Laravel" height="30" width="40" src="https://img.icons8.com/stickers/100/undefined/laravel.png" />
+  <img align="center" alt="CSharp" height="30" width="40" src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://img.icons8.com/color/48/undefined/css3.png" />
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://img.icons8.com/color/48/undefined/bootstrap.png" />
+  <img align="center" alt="Docker" height="30" width="40" src="https://img.icons8.com/color/48/undefined/docker.png" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://img.icons8.com/color/48/undefined/maria-db.png" />
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://img.icons8.com/color/48/undefined/postgreesql.png" />
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://img.icons8.com/color/48/undefined/microsoft-sql-server.png" />
+  <img align="center" alt="Linux" height="30" width="40" src="https://img.icons8.com/color/48/undefined/linux.png" />
+  <img align="center" alt="Git" height="30" width="40" src="https://img.icons8.com/color/48/undefined/git.png" />
+  <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://img.icons8.com/color/48/undefined/visual-studio--v2.png" />
 </div>
 
 ##
