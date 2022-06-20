@@ -1,5 +1,5 @@
 ### _Bem-vindos!_
-_Sou o **Diego de Almeida Costa**, sou residente de Salvador/BA;_
+_Sou o **Diego de Almeida Costa**, residente de Salvador/BA;_
 
 _Meu hobby é **programar** e escutar músicas;_
 
