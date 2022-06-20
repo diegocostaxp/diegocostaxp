@@ -3,7 +3,7 @@ _Sou o **Diego de Almeida Costa**, residente de Salvador/BA;_
 
 _Meu hobby é **programar** e escutar músicas;_
 
-_Sou tecnologista em Análise e Desenvolvimento de Sistemas;_
+_Sou tecnólogo em Análise e Desenvolvimento de Sistemas;_
 
 _Sou programador de aplicativos, sistemas, sites. Trabalho com diversas tecnologias;_
 
