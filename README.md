@@ -1,11 +1,11 @@
 ### _Bem-vindos!_
+
+
 _Sou o **Diego de Almeida Costa**, residente de Salvador/BA;_
 
 _Meu hobby é **programar** e escutar músicas;_
 
 _Sou tecnólogo em Análise e Desenvolvimento de Sistemas;_
-
-_Sou programador de aplicativos, sistemas e sites. Trabalho com diversas tecnologias;_
 
 _Meu foco é o desenvolvimento back-end, mas caso haja necessidades posso atuar como full-stack web;_
 
@@ -25,14 +25,17 @@ _Estou disponível para novos desafios._
 [![Livewire Badge](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=fff&style=for-the-badge)](https://github.com/diegocostaxp)
 [![PACKAGIST](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white)](https://github.com/diegocostaxp)
 
-[![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://github.com/diegocostaxp)
-[![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/diegocostaxp)
+<!---
+_Sou programador de aplicativos, sistemas e sites. Trabalho com diversas tecnologias;_
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/diegocostaxp)
-[![SQL_SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://github.com/diegocostaxp)
-
 [![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/diegocostaxp)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/diegocostaxp)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/diegocostaxp)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/diegocostaxp) 
+[![SQL_SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://github.com/diegocostaxp)
+[![APACHE](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)](https://github.com/diegocostaxp)
+[![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)](https://github.com/diegocostaxp)
+[![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/diegocostaxp)
+-->
 
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/diegocostaxp?tab=repositories&language=javascript)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/diegocostaxp)
@@ -56,7 +59,8 @@ _Estou disponível para novos desafios._
 [![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/diegocostaxp)
 [![KUBERNETES](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/diegocostaxp)
 [![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/diegocostaxp)
-[![APACHE](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)](https://github.com/diegocostaxp)
-[![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)](https://github.com/diegocostaxp)
-[![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/diegocostaxp)
+[![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://github.com/diegocostaxp)
+[![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/diegocostaxp)
+
+
 
