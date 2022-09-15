@@ -7,8 +7,6 @@ _Meu hobby é **programar** e escutar músicas;_
 
 _Sou tecnólogo em Análise e Desenvolvimento de Sistemas;_
 
-_Meu foco é o desenvolvimento back-end, mas caso haja necessidades posso atuar como full-stack web;_
-
 _Estou disponível para novos desafios._
 
 ## _Meus contatos:_
