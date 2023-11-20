@@ -1,6 +1,6 @@
 ### _Bem-vindos!_
 
-
+/*
 _Sou o **Diego de Almeida Costa**, residente de Salvador/BA;_
 
 _Meu hobby é **programar** e escutar músicas;_
@@ -58,5 +58,5 @@ _Sou programador de aplicativos, sistemas e sites. Trabalho com diversas tecnolo
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/diegocostaxp)
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/diegocostaxp)
 
-
+*/
 
