@@ -1,13 +1,3 @@
-### _Bem-vindos!_
-
-/*
-_Sou o **Diego de Almeida Costa**, residente de Salvador/BA;_
-
-_Meu hobby é **programar** e escutar músicas;_
-
-_Sou tecnólogo em Análise e Desenvolvimento de Sistemas;_
-
-_Estou disponível para novos desafios._
 
 ## _Meus contatos:_
 
@@ -52,11 +42,6 @@ _Sou programador de aplicativos, sistemas e sites. Trabalho com diversas tecnolo
 [![BOOSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/diegocostaxp?tab=repositories&language=bootstrap)
 
 [![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/diegocostaxp)
-[![KUBERNETES](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/diegocostaxp)
-[![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/diegocostaxp)
-[![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://github.com/diegocostaxp)
-[![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/diegocostaxp)
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/diegocostaxp)
 
-*/
 
